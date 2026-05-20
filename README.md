@@ -3,7 +3,7 @@
 > A reinforcement learning agent that monitors employee behavior across months of logs, maintains a rolling risk score, and makes triage decisions — *catching threats a rule-based system would entirely miss.*
 
 **Course:** CP8319-CPS824 · Reinforcement Learning  
-**Authors:** Hetu Patel (501215707) · Tenzin Tselha (501404675)
+**Authors:** Hetu Patel (501215707) 
 
 ---
 
